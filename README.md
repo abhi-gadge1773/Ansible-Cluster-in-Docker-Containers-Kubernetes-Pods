@@ -198,6 +198,3 @@ ansible -i inventory.ini nodes -m ping
 
 
 
-
-Let me know if you'd like a downloadable `.md` file or want to embed images/screenshots with placeholders!
-```
