@@ -1,11 +1,5 @@
 # 🚀 Ansible Cluster in Docker Containers & Kubernetes Pods
 
-**“Automate everything — but first, build it yourself!”**
-
-Welcome to my hands-on DevOps project where I manually set up a fully functional **Ansible automation cluster** inside both **Docker containers** and **Kubernetes pods**, without using any prebuilt images.
-
-> Whether you’re a beginner or an enthusiast learning Infrastructure as Code (IaC), this walkthrough will give you real-world insight into automation from the ground up.
-
 ---
 
 ## 🧭 Overview
